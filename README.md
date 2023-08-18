@@ -1,2 +1,3 @@
 # Mobile_price_classification
-I made this project using machine learning algorithm. 
+Made this project to classify mobile on the basis of their features and classify them. In this project i have used various algorithm to enhance accuracy.
+DATASET-KAGGLE
